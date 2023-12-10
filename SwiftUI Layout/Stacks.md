@@ -32,8 +32,8 @@ Use .zIndex() to change the stacking order if needed
 
 
 ### Apple Docs
-[- VStack](https://developer.apple.com/documentation/swiftui/vstack)
+[VStack](https://developer.apple.com/documentation/swiftui/vstack)
 
-[- HStack](https://developer.apple.com/documentation/swiftui/hstack)
+[HStack](https://developer.apple.com/documentation/swiftui/hstack)
 
-[- ZStack](https://developer.apple.com/documentation/swiftui/zstack)
+[ZStack](https://developer.apple.com/documentation/swiftui/zstack)

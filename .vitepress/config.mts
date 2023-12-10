@@ -8,8 +8,14 @@ export default defineConfig({
   description: 'Oki-doci',
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      // { text: 'Examples', link: '/markdown-examples' }
+      {
+          text: 'Home',
+          link: '/'
+      },
+      // {
+        // text: 'Examples',
+        // link: '/markdown-examples'
+        // }
     ],
       search: {
           provider: 'local'
@@ -128,9 +134,16 @@ export default defineConfig({
                   }
               ]
           },
-          { text: 'ScrechKit', link: 'ScrechKit', collapsed: true, items: [
-                  { text: '👨‍💻 Fonts' }
-              ]}
+          {
+              text: 'ScrechKit',
+              link: 'ScrechKit',
+              collapsed: true,
+              items: [
+                  {
+                      text: '👨‍💻 Fonts'
+                  }
+              ]
+          }
       ],
 
     footer: {
@@ -139,7 +152,10 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/topscrech/swift-docs' }
+      {
+          icon: 'github',
+          link: 'https://github.com/topscrech/swift-docs'
+      }
     ]
   }
 })

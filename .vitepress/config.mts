@@ -22,17 +22,14 @@ export default defineConfig({
                       'collapsed': true,
                       'items': [
                           {
-                              'text': '👨‍💻 VStack & HSTack',
-                              link: 'SwiftUI Layout/VStack'
+                              'text': '👨‍💻 Stacks',
+                              link: 'SwiftUI Layout/Stacks'
                           },
                           {
                               'text': '👨‍💻 List'
                           },
                           {
                               'text': '👨‍💻 DisclosureGroup'
-                          },
-                          {
-                              'text': '👨‍💻 ZStack'
                           },
                           {
                               'text': '👨‍💻 Spacer'

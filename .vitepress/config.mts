@@ -114,7 +114,7 @@ export default defineConfig({
               ]
           },
           { text: 'ScrechKit', link: 'ScrechKit', collapsed: true, items: [
-                  // { text: ''}
+                  { text: '👨‍💻 Fonts' }
               ]}
       ],
 

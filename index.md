@@ -18,8 +18,10 @@ hero:
 features:
   - title: Quick Start
     details: The swiftest intro to Swift and its Frameworks
+    
   - title: Informative
     details: Nothing superfluous, just the most important information
+    
   - title: Open Source Community
     details: Contributions are always welcome and will be reviewed immediately
 ---

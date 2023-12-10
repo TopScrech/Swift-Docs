@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Swift-Docs"
-  text: "I love to fuck my ass"
+  text: "Oki-doci"
   tagline: My great project tagline
   actions:
     - theme: brand

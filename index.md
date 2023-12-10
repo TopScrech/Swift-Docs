@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Swift Docs"
-  text: "In development... 👨‍💻"
+  name: 'Swift Docs'
+  text: 'In development... 👨‍💻'
   tagline: Your entry point in Swift
   actions:
     - theme: brand

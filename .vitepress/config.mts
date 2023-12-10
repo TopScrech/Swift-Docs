@@ -29,31 +29,40 @@ export default defineConfig({
                               link: 'SwiftUI Layout/Stacks'
                           },
                           {
-                              'text': '👨‍💻 List'
+                              'text': '👨‍💻 List',
+                              // link: 'SwiftUI Layout/List'
                           },
                           {
-                              'text': '👨‍💻 DisclosureGroup'
+                              'text': '👨‍💻 DisclosureGroup',
+                              // link: 'SwiftUI Layout/DisclosureGroup'
                           },
                           {
-                              'text': '👨‍💻 Spacer'
+                              'text': '👨‍💻 Spacer',
+                              // link: 'SwiftUI Layout/Spacer'
                           },
                           {
-                              'text': '👨‍💻 Divider'
+                              'text': '👨‍💻 Divider',
+                              // link: 'SwiftUI Layout/Divider'
                           },
                           {
-                              'text': '👨‍💻 LazyVStack & LazyHStack'
+                              'text': '👨‍💻 LazyVStack & LazyHStack',
+                              // link: 'SwiftUI Layout/Divider'
                           },
                           {
-                              'text': '👨‍💻 Grid'
+                              'text': '👨‍💻 Grid',
+                              // link: 'SwiftUI Layout/Grid'
                           },
                           {
-                              'text': '👨‍💻 Group'
+                              'text': '👨‍💻 Group',
+                              // link: 'SwiftUI Layout/Group'
                           },
                           {
-                              'text': '👨‍💻 Form'
+                              'text': '👨‍💻 Form',
+                              // link: 'SwiftUI Layout/Form'
                           },
                           {
-                              'text': '👨‍💻 GeometryReader'
+                              'text': '👨‍💻 GeometryReader',
+                              // link: 'SwiftUI Layout/GeometryReader'
                           }
                       ]
                   },
@@ -62,16 +71,20 @@ export default defineConfig({
                       'collapsed': true,
                       'items': [
                           {
-                              'text': '👨‍💻 Text'
+                              'text': '👨‍💻 Text',
+                              // link: 'Elements/Text'
                           },
                           {
-                              'text': '👨‍💻 Image'
+                              'text': '👨‍💻 Image',
+                              // link: 'Elements/Image'
                           },
                           {
-                              'text': '👨‍💻 Link'
+                              'text': '👨‍💻 Link',
+                              // link: 'Elements/Link'
                           },
                           {
-                              'text': '👨‍💻 Map'
+                              'text': '👨‍💻 Map',
+                              // link: 'Elements/Map'
                           }
                       ]
                   },
@@ -80,34 +93,36 @@ export default defineConfig({
                       'collapsed': true,
                       'items': [
                           {
-                              'text': '👨‍💻 Toggle'
+                              'text': '👨‍💻 Toggle',
+                          //     link: 'Inputs/Toggle'
                           },
                           {
-                              'text': '👨‍💻 Picker'
+                              'text': '👨‍💻 Picker',
+                              //     link: 'Inputs/Picker'
                           },
                           {
-                              'text': '👨‍💻 ImagePicker'
+                              'text': '👨‍💻 ImagePicker',
+                              //     link: 'Inputs/ImagePicker'
                           },
                           {
-                              'text': '👨‍💻 TextField'
+                              'text': '👨‍💻 TextFields',
+                              //     link: 'Inputs/TextFields'
                           },
                           {
-                              'text': '👨‍💻 SecureField'
+                              'text': '👨‍💻 Slider',
+                              //     link: 'Inputs/Slider'
                           },
                           {
-                              'text': '👨‍💻 TextEditor'
+                              'text': '👨‍💻 Stepper',
+                              //     link: 'Inputs/Stepper'
                           },
                           {
-                              'text': '👨‍💻 Slider'
+                              'text': '👨‍💻 DatePicker',
+                              //     link: 'Inputs/DatePicker'
                           },
                           {
-                              'text': '👨‍💻 Stepper'
-                          },
-                          {
-                              'text': '👨‍💻 DatePicker'
-                          },
-                          {
-                              'text': '👨‍💻 ImagePicker'
+                              'text': '👨‍💻 ImagePicker',
+                              //     link: 'Inputs/ImagePicker'
                           }
                       ]
                   }

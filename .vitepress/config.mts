@@ -6,8 +6,10 @@ let currentYear = new Date().getFullYear()
 export default defineConfig({
   title: 'Swift-Docs',
   description: 'Oki-doci',
+    cleanUrls: true,
   themeConfig: {
     nav: [
+
       {
           text: 'Home',
           link: '/'
@@ -139,7 +141,6 @@ export default defineConfig({
               link: 'ScrechKit'
           }
       ],
-
     footer: {
       message: `Sponsored by <a href='${bisquitUrl}' target='_blank'>Bisquit.Host</a>`,
       copyright: `Copyright © 2023-${currentYear} TopScrech`

@@ -5,6 +5,7 @@ hero:
   name: 'Swift Docs'
   text: 'In development... 👨‍💻'
   tagline: Your entry point in Swift
+  
   actions:
     - theme: brand
       text: SwiftUI
@@ -13,7 +14,7 @@ hero:
     - theme: alt
       text: ScrechKit
       link: /ScrechKit
-
+      
 features:
   - title: Quick Start
     details: The swiftest intro to Swift and its Frameworks

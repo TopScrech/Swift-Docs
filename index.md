@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: SwiftUI
-      link: /swiftui
+      link: /SwiftUI
       
     - theme: alt
       text: ScrechKit

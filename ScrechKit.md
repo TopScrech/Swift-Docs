@@ -19,6 +19,7 @@ print(sortedByStalin)
 
 # Other
 
+## Sheet
 ```swift
 @State private var showSheet = false
 
@@ -29,6 +30,7 @@ SomeView {...}
     // .sheet(isPresented: $showSheet) {...}
 ```
 
+## Redacted
 ```swift
 @State private var isRedacted = false
 
@@ -39,6 +41,7 @@ SomeView {...}
     // .redacted(reason: isRedacted ? .placeholder : [])
 ```
 
+## Color Scheme
 ```swift
 SomeView {...}
     .darkSchemePreferred()
@@ -54,13 +57,10 @@ SomeView {...}
 
 
 
-![img.png](img.png)
+[//]: # (![img.png]&#40;img.png&#41;)
 
 .applyPercentEncoding
 
-.redacted
-
 main and delay
-
 
 getMimeType

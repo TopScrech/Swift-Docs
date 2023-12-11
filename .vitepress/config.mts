@@ -136,13 +136,7 @@ export default defineConfig({
           },
           {
               text: 'ScrechKit',
-              link: 'ScrechKit',
-              collapsed: true,
-              items: [
-                  {
-                      text: '👨‍💻 Fonts'
-                  }
-              ]
+              link: 'ScrechKit'
           }
       ],
 

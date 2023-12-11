@@ -12,7 +12,7 @@ hero:
       
     - theme: alt
       text: ScrechKit
-      link: /screchkit
+      link: /ScrechKit
 
 features:
   - title: Quick Start

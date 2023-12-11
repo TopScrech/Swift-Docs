@@ -17,6 +17,42 @@ print(sortedByStalin)
 
 ## Color Extensions
 
+# Other
+
+```swift
+@State private var showSheet = false
+
+SomeView {...}
+    .sheet($showSheet) {...}
+    
+    // Instead of 
+    // .sheet(isPresented: $showSheet) {...}
+```
+
+```swift
+@State private var isRedacted = false
+
+SomeView {...}
+    .redacted($showSheet)
+    
+    // Instead of 
+    // .redacted(reason: isRedacted ? .placeholder : [])
+```
+
+```swift
+SomeView {...}
+    .darkSchemePreferred()
+    // or
+    // .lightSchemePreferred()
+    
+    // Instead of 
+    // .preferredColorScheme(.dark)
+    // or
+    // .preferredColorScheme(.light)
+```
+
+
+
 
 ![img.png](img.png)
 

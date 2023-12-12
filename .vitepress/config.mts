@@ -6,10 +6,9 @@ let currentYear = new Date().getFullYear()
 export default defineConfig({
   title: 'Swift-Docs',
   description: 'Oki-doci',
-    cleanUrls: true,
+  cleanUrls: true,
   themeConfig: {
     nav: [
-
       {
           text: 'Home',
           link: '/'
@@ -22,7 +21,6 @@ export default defineConfig({
       search: {
           provider: 'local'
       },
-
       'sidebar': [
           {
               'text': 'SwiftUI',
@@ -50,6 +48,10 @@ export default defineConfig({
                           },
                           {
                               'text': '👨‍💻 Divider',
+                              // link: 'SwiftUI Layout/Divider'
+                          },
+                          {
+                              'text': '👨‍💻 TabView',
                               // link: 'SwiftUI Layout/Divider'
                           },
                           {

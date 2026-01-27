@@ -1,7 +1,16 @@
-{
+  {
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "8FQUA2F388.dev.topscrech.Everything-SwiftUI",
+          "paths": [ "*" ]
+        }
+      ]
+    },
     "webcredentials": {
-        "apps": [
-            "8FQUA2F388.dev.topscrech.Everything-SwiftUI"
-        ]
+      "apps": [
+        "8FQUA2F388.dev.topscrech.Everything-SwiftUI",
+      ]
     }
-}
+  }
